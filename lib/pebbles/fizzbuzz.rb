@@ -9,7 +9,7 @@ def nabeatsu value
 end
 
 class Pebbles::Fizzbuzz
-  VERSION = '0.1.0'
+  VERSION = '0.1.1'
 
   def self.solve value
     value = self.validate value
