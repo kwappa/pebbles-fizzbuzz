@@ -1,6 +1,6 @@
 = pebbles-fizzbuzz
 
- * https://github.com/kwappa/pebbles-fizzbuzz
+* https://github.com/kwappa/pebbles-fizzbuzz
 
 == DESCRIPTION:
 
@@ -8,9 +8,10 @@
 
 == FEATURES/PROBLEMS:
 
- * solve fizz-buzz
- * solve sekaino-nabe-atsu
-  * return aho_nized string when value that multiples of 3 or includes `3` was given
+* solve fizz-buzz
+* solve sekaino-nabe-atsu
+* return aho_nized string when value that multiples of 3 or includes `3` was given
+
 == SYNOPSIS:
     require 'pebbles/fizzbuzz'
     fizzbuzz  1 #=> '1'
@@ -24,11 +25,11 @@
 
 == REQUIREMENTS:
 
- * pebbles
+* pebbles
 
 == INSTALL
 
- * gem install pebbles-fizzbuzz
+* gem install pebbles-fizzbuzz
 
 == LICENSE:
 
